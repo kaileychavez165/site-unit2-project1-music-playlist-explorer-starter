@@ -1,10 +1,8 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Unit Assignment: Music Playlist Explorer
 
-Submitted by: **NAME**
+Submitted by: **Kailey Chavez**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **9** hours spent in total
 
 Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LINK_HERE)
 
@@ -12,22 +10,22 @@ Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LIN
 
 #### CORE FEATURES
 
-- [ ] **Display Playlists**
-  - [ ] Dynamically render playlists on the homepage using JavaScript.
-  - [ ] Fetch data from a provided JSON file and use it to create interactive playlist tiles.
-  - [ ] Each title should display the playlist's cover image, name, creator, and like count.
+- [x] **Display Playlists**
+  - [x] Dynamically render playlists on the homepage using JavaScript.
+  - [x] Fetch data from a provided JSON file and use it to create interactive playlist tiles.
+  - [x] Each title should display the playlist's cover image, name, creator, and like count.
 
-- [ ] **Playlist Details**
-  - [ ] Create a modal view that displays detailed information about a playlist when a user clicks on a playlist tile.
-  - [ ] The modal should show the playlist's cover image, name, creator, and a list of songs, including their titles, artists, and durations.
+- [x] **Playlist Details**
+  - [x] Create a modal view that displays detailed information about a playlist when a user clicks on a playlist tile.
+  - [x] The modal should show the playlist's cover image, name, creator, and a list of songs, including their titles, artists, and durations.
 
-- [ ] **Like Playlists**
-  - [ ] Implement functionality to allow users to like playlists by clicking a heart icon on each playlist tile.
-  - [ ] Update the like count on the playlist tile when a playlist is liked or unliked.
+- [x] **Like Playlists**
+  - [x] Implement functionality to allow users to like playlists by clicking a heart icon on each playlist tile.
+  - [x] Update the like count on the playlist tile when a playlist is liked or unliked.
 
-- [ ] **Shuffle Songs**
-  - [ ] Enable users to shuffle the songs within a playlist using a shuffle button in the playlist detail modal.
-  - [ ] Rearrange the songs in the modal view when the shuffle button is clicked.
+- [x] **Shuffle Songs**
+  - [x] Enable users to shuffle the songs within a playlist using a shuffle button in the playlist detail modal.
+  - [x] Rearrange the songs in the modal view when the shuffle button is clicked.
 
 #### STRETCH FEATURES
 
@@ -60,20 +58,25 @@ Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LIN
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Overall, I would say I felt somewhat prepared to complete this assignment. I was comfortable with the HTML and CSS, however, I did struggle with using JavaScript. This was 
+my first time using JavaScript to complete a project, so I would say it was definitely challenging, even after the lessons provided.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I would have loved to have implemented some of the stretch features, like removing and adding playlists. With more time, I think I would have been able to have gotten
+them done. In regards to doing something differently, I think I could have started the project a bit earlier, and I should have focused more on functionality (JavaScript) rather
+than CSS, which is really time-consuming; I know now that I should probably prioritize completing the more challenging aspects of a project before working on the simpler features.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+My project demo went really well! It opened up room for conversation on how I could get started on the "Featured Playlist" page, which is something i really appreciated; after the
+demo, my peer Chris offered guidance regarding this feature, and I'm so grateful he did! I also received positive feedback regarding my styling, which I appreciated because it is
+something I'm proud about.
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- No open-source libraries used, but other resources were used, like W3Schools, MDN Web Docs, StackOverflow, and YouTube.
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shout out Keith, Devarsh, Chris, Mabel, and Nathan for their help, guidance, and support throughout this project, especially with using JavaScript and styling!

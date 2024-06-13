@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <h1 id="mainTitle">Music Playlist Explorer</h1>
+        <h1 id="mainTitle">Featured Playlist</h1>
     </header>
 
     <nav>
@@ -21,31 +21,29 @@
         </ul>
     </nav>
 
-    <main> 
-        <div id="playlistCard" class="playlist-card"></div>
-    </main>
-
-    <div id="playlistModal" class="modal">
-        <div class="modal-content">
-            <span class="close-button">&times;</span>
-            <div id="playlistIntro">
-                <img id="modalCover" src="" alt="Playlist Cover"/>
-                <div id="playlistNames">
-                    <h4 id="modalName"></h4>
-                    <p id="modalCreator"></p>
-                    <div id="buttonArea">
-                        <button id="shuffleButton">Shuffle Songs</button>
+    <main>
+        <div id="featuredPage" class="page">
+                <div id="featuredIntro">
+                    <img id="featuredCover" src="">
+                    <div id="featuredNames">
+                        <h4 id="featuredPlaylistName"></h4>
+                        <p id="featuredCreator"></p>
+                    </div>
+                    <div id="featuredButtonArea">
+                        <button id="featuredShuffleButton">Shuffle</button>
                     </div>
                 </div>
+                <div id="featuredDetails">
+                    <div id="featuredSongList"></div>
+                </div>
             </div>
-            <div id="modalSongContainer"></div>
         </div>
-    </div>
+    </main>
 
     <footer>
         <p id="pageFooter"></p>
     </footer>
+
     <script src="data/data.js"></script>
-    <script src="script.js"></script>
+    <script src="script-featured.js"></script>
 </body>
-</html>

@@ -1,53 +1,54 @@
 let data = { "playlists": [
-    {
-      "playlistID": 0,
-      "playlist_name": "Late Night Drive",
-      "playlist_creator": "Melody Maven",
-      "playlist_art": "https://picsum.photos/id/36/200",
-      "likeCount": 0,
-      "songs": [
-        {
-          "songID": 0,
-          "title": "Nightcall",
-          "artist": "Kavinsky",
-          "album": "Nightcall",
-          "cover_art": "https://picsum.photos/id/43/200",
-          "duration": "4:18"
-        },
-        {
-          "songID": 1,
-          "title": "Drive",
-          "artist": "The Cars",
-          "album": "Heartbeat City",
-          "cover_art": "https://picsum.photos/id/45/200",
-          "duration": "3:55"
-        },
-        {
-          "songID": 2,
-          "title": "Cruisin'",
-          "artist": "Smokey Robinson",
-          "album": "One Heartbeat",
-          "cover_art": "https://picsum.photos/id/88/200",
-          "duration": "4:30"
-        },
-        {
-          "songID": 3,
-          "title": "Night Moves",
-          "artist": "Bob Seger",
-          "album": "Night Moves",
-          "cover_art": "https://picsum.photos/id/84/200",
-          "duration": "5:25"
-        },
-        {
-          "songID": 4,
-          "title": "Moonlight Drive",
-          "artist": "The Doors",
-          "album": "Strange Days",
-          "cover_art": "https://picsum.photos/id/122/200",
-          "duration": "3:04"
-        }
-      ]
-    },
+  {
+    "playlistID": 0,
+    "playlist_name": "Late Night Drive",
+    "playlist_creator": "Melody Maven",
+    "playlist_art": "https://picsum.photos/id/36/200",
+    "likeCount": 0,
+    "songs": [
+      {
+        "songID": 0,
+        "title": "Nightcall",
+        "artist": "Kavinsky",
+        "album": "Nightcall",
+        "cover_art": "https://picsum.photos/id/43/200",
+        "duration": "4:18"
+      },
+      {
+        "songID": 1,
+        "title": "Drive",
+        "artist": "The Cars",
+        "album": "Heartbeat City",
+        "cover_art": "https://picsum.photos/id/45/200",
+        "duration": "3:55"
+      },
+      {
+        "songID": 2,
+        "title": "Cruisin'",
+        "artist": "Smokey Robinson",
+        "album": "One Heartbeat",
+        "cover_art": "https://picsum.photos/id/88/200",
+        "duration": "4:30"
+      },
+      {
+        "songID": 3,
+        "title": "Night Moves",
+        "artist": "Bob Seger",
+        "album": "Night Moves",
+        "cover_art": "https://picsum.photos/id/84/200",
+        "duration": "5:25"
+      },
+      {
+        "songID": 4,
+        "title": "Moonlight Drive",
+        "artist": "The Doors",
+        "album": "Strange Days",
+        "cover_art": "https://picsum.photos/id/122/200",
+        "duration": "3:04"
+      }
+    ]
+  },
+  
     {
       "playlistID": 1,
       "playlist_name": "That Summer '16 Feeling",
