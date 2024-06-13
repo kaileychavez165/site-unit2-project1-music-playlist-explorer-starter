@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
     featureSongList.style.display = "block";
 
     // Event listener to shuffle songs in the modal
-    document.getElementById("shuffleButton").addEventListener("click", () => {
+    document.getElementById("featuredShuffleButton").addEventListener("click", () => {
         // Shuffle songs
         const songList = document.getElementById("featuredSongList");
         const songs = Array.from(songList.children);  
