@@ -50,9 +50,14 @@ Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LIN
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+<div>
+    <a href="https://www.loom.com/share/46e90d65da5440d992fd9e41010094cc">
+      <p>Music Playlist Explorer - Kailey Chavez - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/46e90d65da5440d992fd9e41010094cc">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/46e90d65da5440d992fd9e41010094cc-with-play.gif">
+    </a>
+  </div>
 
 ### Reflection
 
