@@ -70,11 +70,12 @@ my first time using JavaScript to complete a project, so I would say it was defi
   
 I would have loved to have implemented some of the stretch features, like removing and adding playlists. With more time, I think I would have been able to have gotten
 them done. In regards to doing something differently, I think I could have started the project a bit earlier, and I should have focused more on functionality (JavaScript) rather
-than CSS, which is really time-consuming; I know now that I should probably prioritize completing the more challenging aspects of a project before working on the simpler features.
+than CSS, which is really time-consuming; I know now that I should probably prioritize completing the more challenging aspects of a project before working on the simpler features. I would
+have also loved to improve some of the responsiveness on the "Featured Playlist" page.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-My project demo went really well! It opened up room for conversation on how I could get started on the "Featured Playlist" page, which is something i really appreciated; after the
+My project demo went really well! It opened up room for conversation on how I could get started on the "Featured Playlist" page, which is something I really appreciated; after the
 demo, my peer Chris offered guidance regarding this feature, and I'm so grateful he did! I also received positive feedback regarding my styling, which I appreciated because it is
 something I'm proud about.
 

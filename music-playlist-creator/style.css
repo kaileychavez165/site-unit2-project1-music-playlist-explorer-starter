@@ -53,6 +53,8 @@ nav ul li {
    color: #efca08;
 }
 
+/* Playlist Cards */
+
 #playlistCard {
    display: flex;
    flex-wrap: wrap;
@@ -103,6 +105,8 @@ nav ul li {
  .like-count {
    color: #218838;
  }
+
+ /* Modal */ 
 
  .modal {
    display: none;
@@ -249,6 +253,8 @@ nav ul li {
    color: #BBDEF0;
  }
 
+ /* Footer */
+
  #pageFooter {
    margin: 0;
    padding: 15px 0 15px 30px;
@@ -256,6 +262,8 @@ nav ul li {
    background-color: #00A6A6;
    background-size: cover;
 }
+
+/* Featured Playlist */
 
 .page {
    display: flex;
@@ -373,6 +381,8 @@ nav ul li {
    font-weight: 500;
 }
 
+/* Responsivness Additions */
+
 @media screen and (max-width: 719px) {
    #mainTitle {
       display: flex;
@@ -452,4 +462,23 @@ nav ul li {
    #shuffleButton {
       margin-top: 18px;
     }
+}
+
+@media screen and (max-width: 700px) {   
+   #featuredCover {
+      width: 350px;
+      height: 350px;
+      border-radius: 15px;
+   }
+
+   #featuredPlaylistName {
+      font-size: 25px;
+      margin-bottom: 0;
+      margin-top: 18px;
+   }
+   
+   #featuredCreator {
+      font-size: 15px;
+      margin-top: 5px;
+   }
 }
